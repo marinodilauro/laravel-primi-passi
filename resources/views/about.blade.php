@@ -41,7 +41,7 @@
   </nav>
 
 
-  <h1>Hello World</h1>
+  <h1>About me</h1>
 
 </body>
 
