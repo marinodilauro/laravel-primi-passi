@@ -13,7 +13,7 @@
   <!-- CSS -->
   @vite(['resources/css/app.css', 'resources/js/app.js'])
 
-  <title>laravel-primi-passi | about</title>
+  <title>laravel-primi-passi | portfolio</title>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
   </nav>
 
 
-  <h1>About me</h1>
+  <h1>My portfolio</h1>
 
 </body>
 

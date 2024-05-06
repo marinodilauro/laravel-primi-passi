@@ -30,11 +30,11 @@
       </button>
 
       <button class="button">
-        <a href="">Portfolio</a>
+        <a href="{{route('portfolio')}}">Portfolio</a>
       </button>
 
       <button class="button">
-        <a href="">Contact me</a>
+        <a href="{{route('contact')}}">Contact me</a>
       </button>
 
     </div>
